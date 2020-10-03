@@ -10,11 +10,11 @@ ul.social-network {
   ul.social-network li {
     display: inline;
     margin: 0;
-    padding: 5px;
+    padding: 2px;
   }
   
   .faFacebook, .faLinkedin, .faInstagram{
-      color: white;
+      color: lightseagreen;
   }
   
   .faFacebook:hover{
@@ -28,3 +28,8 @@ ul.social-network {
   .faInstagram:hover{
   color: #C13584;
   }
+
+  .background {
+    background: url('https://www.worldofwallpaper.com/media/catalog/product/m/u/mur160_tropical_leaves_wallpaper_green_ae1.jpg');
+    background-size: 100%;
+}
